@@ -1,4 +1,4 @@
-                                                     **Let's be Awesome Today!**
+                                                     Let's be Awesome Today!
 
 
 <div align="center">
