@@ -8,7 +8,7 @@
 
 
 
-### Hi there 👋 My name is Zoryana!
+### Hi there 👋 My name is Zoryana Pleskun.
 
 <!--
 **Zoryana-QA/Zoryana-QA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
